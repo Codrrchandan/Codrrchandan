@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+  background-image: linear-gradient(to top,red,yellow,skyblue,blue);
+  font-family:Monospace;
+}
+h3{
+  color: #12dce7;
+}
+#submit:hover{
+  color: #fffef8;
+}
+#submit{
+  background-image: linear-gradient(to left,#e7a899,yellow,green);
+  color: rgb(17,13,177);
+  width: 30%;
+  border-radius: 20px;
+  border-width: 5px;
+  border-color:rgb(17,13,177) ;
+  font-size: 17px;
+  font-family: Monospace;
+  font-weight: 700;
+}
+#reset:hover{
+  background-color: #12dce7;
+}
+#reset{
+    border-radius: 20px;
+    font-family: Monospace;
+    background-color: #eabc0dc8;
+}
